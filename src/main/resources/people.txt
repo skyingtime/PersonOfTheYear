@@ -1,0 +1,5 @@
+1955-05-19|James|Arthur|Gosling
+1984-05-12|Sarah||Connor
+1942-01-17|Cassius|Marcellus|Clay
+1976-02-29|Mohammed||Ali
+1941-09-09|Dennis||Ritchie
